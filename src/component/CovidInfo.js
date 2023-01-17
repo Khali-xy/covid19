@@ -20,9 +20,7 @@ function CovidInfo(props) {
 
     }
 
-
-
-
+    
     return (
         <div>
             <p></p>
